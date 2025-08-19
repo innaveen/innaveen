@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Naveen Gupta
 
-**B.Tech CSE | Full‑Stack (MERN) & Cloud (AWS) Enthusiast**
+**B.Tech CSE | Full‑Stack (MERN), Cloud (AWS), and Problem-Solving Enthusiast**
 I love building clean, practical products and solving real‑world problems with code.
 
 ---
 
 ## 🔎 About Me
 
-* 💻 Focus areas: **JavaScript, MERN, Cloud (AWS), REST APIs**
+* 💻 Focus areas: **JavaScript, MERN, Cloud (AWS), Java, C, Python, REST APIs**
 * 🎯 Currently: Strengthening **DSA + System Design**; refining full‑stack projects
 * 🏆 Recent: AICTE‑approved internship with **EduSkills × AWS** (Cloud Computing)
 * 📍 India | 🌐 Open to internships & freelance
@@ -23,6 +23,9 @@ I love building clean, practical products and solving real‑world problems with
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws" />
@@ -45,18 +48,16 @@ I love building clean, practical products and solving real‑world problems with
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=innaveen&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innaveen&layout=compact" height="160"/>
-</p>
-
-<p>
-  <a href="https://streak-stats.demolab.com?user=innaveen">
-    <img src="https://streak-stats.demolab.com?user=innaveen" height="160"/>
-  </a>
-</p>
+* ☁️ **AWS Academy Graduate – AWS Academy Cloud Foundations** (EduSkills × AWS)
+* ☁️ **AWS Academy Graduate – AWS Academy Cloud Architecting** (EduSkills × AWS)
+* 💻 **AICTE Virtual Internship Certificate in Cloud Computing (AWS)**
+* 📊 **Google Analytics Academy** (Fundamentals of Digital Analytics)
+* 🤖 **AI For Everyone** (Coursera)
+* 🔐 **Cybersecurity Essentials** (Cisco Networking Academy)
+* 🐍 **Python Programming** (Infosys Springboard)
+* ☁️ **Microsoft Azure Fundamentals** (Self-learning & practice)
 
 ---
 
