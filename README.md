@@ -51,11 +51,16 @@ I love building clean, practical products and solving real-world problems with c
 ## 📜 Certifications
 
 <p>
-  <a href="https://www.credly.com/go/hRGFRnWD" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations" /></a>
-  <a href="https://www.credly.com/go/XKNstGot" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Architecting" /></a>
-  <a href="https://www.ybifoundation.org/certificate-validation" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20Data%20Skills-0A66C2?style=for-the-badge" alt="YBI AI & Data Skills" /></a> <sub>ID: 480RME62UONU6</sub>
-  <a href="https://www.ybifoundation.org/certificate-validation" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20ML%20Fundamentals-0A66C2?style=for-the-badge" alt="YBI AI & ML Fundamentals" /></a> <sub>ID: BGNPBNKCNE3GZ</sub>
-  <a href="https://www.ybifoundation.org/certificate-validation" target
+  <a href="https://www.credly.com/badges/800eb6ef-97cc-4b2f-bebe-5ffe0d91178c/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations" /></a>
+  <a href="https://www.credly.com/badges/4ea712a9-4b78-4275-9f21-119a9f631d42/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Architecting" /></a>
+  <a href="https://foundationybi.trainercentralsite.in/certificate-validation?credentialId=480RME62UONU6" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20Data%20Skills-0A66C2?style=for-the-badge" alt="YBI AI & Data Skills" /></a>
+  <a href="https://foundationybi.trainercentralsite.in/certificate-validation?credentialId=BGNPBNKCNE3GZ" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20ML%20Fundamentals-0A66C2?style=for-the-badge" alt="YBI AI & ML Fundamentals" /></a>
+  <a href="https://foundationybi.trainercentralsite.in/certificate-validation?credentialId=3F50BJGUHZ8Y4" target="_blank"><img src="https://img.shields.io/badge/YBI-Python%20Programming%20Fundamentals-0A66C2?style=for-the-badge&logo=python" alt="YBI Python Programming Fundamentals" /></a>
+  <a href="https://web.certificate.wfglobal.org/en/certificate?certificateId=67974e9497dbc8ee440a971a" target="_blank"><img src="https://img.shields.io/badge/Wadhwani%20Foundation-Employability%20Skills%20(JobReady)%20%E2%80%93%20113%20hrs-2E7D32?style=for-the-badge" alt="Wadhwani Employability Skills - 113 hrs" /></a>
+  <a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=dd5d7c05a304f8198d44233ffb4db5c9" target="_blank"><img src="https://img.shields.io/badge/Data%20Science-Master-6A1B9A?style=for-the-badge" alt="Data Science Master" /></a>
+</p>
+
+---
 
 ## 📚 What I’m Learning / Building
 
