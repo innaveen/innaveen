@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Naveen Gupta
 
-**B.Tech CSE | Full‑Stack (MERN), Cloud (AWS), and Problem-Solving Enthusiast**
-I love building clean, practical products and solving real‑world problems with code.
+**B.Tech CSE | Full-Stack (MERN), Cloud (AWS), and Problem-Solving Enthusiast**
+I love building clean, practical products and solving real-world problems with code.
 
 ---
 
 ## 🔎 About Me
 
-* 💻 Focus areas: **JavaScript, MERN, Cloud (AWS), Java, C, Python, REST APIs**
-* 🎯 Currently: Strengthening **DSA + System Design**; refining full‑stack projects
-* 🏆 Recent: AICTE‑approved internship with **EduSkills × AWS** (Cloud Computing)
+* 💻 Focus areas: **JavaScript, MERN, Cloud (AWS), Java, C, Python**
+* 🎯 Currently: Strengthening **DSA + System Design**; refining full-stack projects
+* 🏆 Recent: AICTE-approved internship with **EduSkills × AWS** (Cloud Computing)
 * 📍 India | 🌐 Open to internships & freelance
 * 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naveen-gupta-999688259) • [GitHub](https://github.com/innaveen)
 
@@ -36,12 +36,12 @@ I love building clean, practical products and solving real‑world problems with
 
 ## 🚀 Featured Projects
 
-* **Campus‑connect** — Campus utilities platform (MERN).
+* **Campus-connect** — Campus utilities platform (MERN).
   *Auth, profiles, announcements, and community modules.*
   Repo: [https://github.com/innaveen/Campus-connect](https://github.com/innaveen/Campus-connect)
 
 * **CryptoPulse** — Lightweight crypto price dashboard.
-  *Client‑side app with charts, search, and watchlist.*
+  *Client-side app with charts, search, and watchlist.*
   Repo: [https://github.com/innaveen/CryptoPulse](https://github.com/innaveen/CryptoPulse)
 
 > More projects coming soon: **Smart CCTV Crime Detection**, **Portfolio Website**.
@@ -50,16 +50,12 @@ I love building clean, practical products and solving real‑world problems with
 
 ## 📜 Certifications
 
-* ☁️ **AWS Academy Graduate – AWS Academy Cloud Foundations** (EduSkills × AWS)
-* ☁️ **AWS Academy Graduate – AWS Academy Cloud Architecting** (EduSkills × AWS)
-* 💻 **AICTE Virtual Internship Certificate in Cloud Computing (AWS)**
-* 📊 **Google Analytics Academy** (Fundamentals of Digital Analytics)
-* 🤖 **AI For Everyone** (Coursera)
-* 🔐 **Cybersecurity Essentials** (Cisco Networking Academy)
-* 🐍 **Python Programming** (Infosys Springboard)
-* ☁️ **Microsoft Azure Fundamentals** (Self-learning & practice)
-
----
+<p>
+  <a href="https://www.credly.com/go/hRGFRnWD" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations" /></a>
+  <a href="https://www.credly.com/go/XKNstGot" target="_blank"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Architecting" /></a>
+  <a href="https://www.ybifoundation.org/certificate-validation" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20Data%20Skills-0A66C2?style=for-the-badge" alt="YBI AI & Data Skills" /></a> <sub>ID: 480RME62UONU6</sub>
+  <a href="https://www.ybifoundation.org/certificate-validation" target="_blank"><img src="https://img.shields.io/badge/YBI-AI%20%26%20ML%20Fundamentals-0A66C2?style=for-the-badge" alt="YBI AI & ML Fundamentals" /></a> <sub>ID: BGNPBNKCNE3GZ</sub>
+  <a href="https://www.ybifoundation.org/certificate-validation" target
 
 ## 📚 What I’m Learning / Building
 
